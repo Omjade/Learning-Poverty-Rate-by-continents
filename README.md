@@ -1,70 +1,73 @@
-Global Learning Poverty Analysis
-Overview
+# 🌍 Global Learning Poverty Analysis
 
-This project presents a comprehensive analysis of Learning Poverty Rates across six continents—North America, South America, Europe, Africa, Asia, and Australia & Oceania—using data sourced from the World Bank.
-It includes visual insights such as bar charts, line graphs, pie charts, and a world heatmap to illustrate global patterns and disparities in learning poverty.
+**Author:** Om Jade  
+**Role:** Research Intern  
+**Data Source:** World Bank  
 
-Project Contents
+A comprehensive analysis of **Learning Poverty Rates** across six continents—**North America, South America, Europe, Africa, Asia, and Australia & Oceania**—highlighting global patterns, regional disparities, and policy recommendations.
 
-Data Preparation – Cleaning and structuring datasets for each continent.
+---
 
-Visual Analysis – Bar, line, pie charts, and a world map heatmap of Learning Poverty.
+## 📊 Project Highlights
 
-Comparative Insights – Identifying countries with high and low poverty rates.
+- **Visual Analysis:** Bar charts, line graphs, pie charts, and world heatmaps  
+- **Regional Insights:** Identify high and low learning poverty rates  
+- **Interactive Exploration:** Jupyter notebooks with detailed code and analysis  
+- **Comprehensive Reporting:** 7–8 page academic-style PDF summarizing findings  
 
-Final Research Report – A 7–8 page academic-style paper summarizing findings, methodologies, and recommendations.
+---
 
-Features
+## 🛠 Tools & Methodology
 
-Exploratory Data Analysis (EDA) with clear visuals.
+**Tools Used:**  
+Python | Pandas | Matplotlib | Seaborn | GeoPandas  
 
-Regional Comparison to highlight disparities.
+**Methodology:**  
+1. **Data Preparation:** Cleaning, structuring, and handling missing values  
+2. **Visualization:** Charts and world heatmaps for clear insights  
+3. **Comparative Analysis:** Identify trends and disparities across regions  
+4. **Policy Recommendations:** Evidence-based suggestions for learning interventions  
 
-Interactive Notebooks for code and analysis.
+---
 
-Comprehensive Report (PDF) for academic and professional use.
+## 📈 Visual Insights
 
-Visuals Included
+| Chart Type      | Purpose                                           |
+|-----------------|---------------------------------------------------|
+| **Bar Charts**  | Compare countries within continents              |
+| **Line Charts** | Represent trends across nations                  |
+| **Pie Charts**  | Show percentage contribution by country          |
+| **Heatmap**     | Visualize global Learning Poverty patterns      |
 
-Bar Charts – Comparison of countries within continents.
+---
 
-Line Charts – Trend representation across nations.
+## 🌐 Repository Structure
 
-Pie Charts – Percentage contribution by country.
+├── data/ # Raw and processed datasets
+├── notebooks/ # Jupyter Notebooks for analysis
+├── visuals/ # Charts and visual outputs
+├── report/ # Final research report (PDF)
+└── README.md # Project documentation 
 
-Heatmap – World-level visualization of Learning Poverty.
 
-Methodology
 
-Data Source: World Bank
+---
 
-Tools Used: Python, Pandas, Matplotlib, Seaborn, GeoPandas
+## 📑 Final Report
 
-Analysis Steps:
+**Title:** Global Analysis of Learning Poverty  
+**Contents:** Methodology, Visuals, Comparative Insights, Findings, Recommendations  
 
-Data cleaning and handling missing values
+The report provides a holistic view of global learning disparities and actionable insights for policymakers and educational organizations.
 
-Visualization through charts and maps
+---
 
-Comparative analysis across regions
+## 💡 Key Features
 
-Summary and policy recommendations
+- **Exploratory Data Analysis (EDA):** Interactive and static visuals  
+- **Regional Comparison:** Highlighting global disparities  
+- **Policy Recommendations:** Data-driven suggestions  
+- **Interactive Notebooks & PDF Report:** Academic and professional use  
 
-Repository Structure
-├── data/                # Raw and processed datasets
-├── notebooks/           # Jupyter Notebooks for analysis
-├── visuals/             # Charts and visual outputs
-├── report/              # Final research report (PDF)
-└── README.md            # Project documentation
+---
 
-Final Report
-
-A detailed research paper summarizing methodologies, visuals, and findings is included in the report folder.
-
-Title: Global Analysis of Learning Poverty
-Source: World Bank
-
-Author
-
-Om Jade
-Research Intern
